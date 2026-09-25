@@ -1,0 +1,113 @@
+# ENGLISH-ELF Word Lexicon
+# Format: word|category|meaning|flags
+# Categories: OUTPUT, ASSIGN, LIST, CONTROL, LOOP, FUNCTION, COMPARE, SLANG, ACTION, LITERAL
+
+# Output Verbs
+say|OUTPUT|print to console|
+print|OUTPUT|print to console|
+display|OUTPUT|show on screen|
+show|OUTPUT|display value|
+tell|OUTPUT|communicate value|
+shout|OUTPUT|loud output|
+whisper|OUTPUT|quiet output|
+speak|OUTPUT|verbally express|
+announce|OUTPUT|declare publicly|
+yell|OUTPUT|shout value|
+output|OUTPUT|produce result|
+mumble|OUTPUT|debug output|
+
+# Assignment Verbs
+set|ASSIGN|assign value|
+let|ASSIGN|declare and assign|
+make|ASSIGN|create with value|
+give|ASSIGN|provide value|
+call|ASSIGN|name reference|
+equal|ASSIGN|is the same as|
+equals|ASSIGN|is equal to|
+
+# List Operations
+create|LIST|make a new list|
+define|LIST|declare a list|
+add|LIST|append element|
+append|LIST|add to end|
+put|LIST|place in list|
+insert|LIST|place at position|
+remove|LIST|take away|
+take|LIST|extract from|
+delete|LIST|remove element|
+clear|LIST|empty completely|
+count|LIST|number of items|
+empty|LIST|has no items|
+named|LIST|identifier for list|
+called|LIST|named identifier|
+
+# Comparison Operators
+is|COMPARE|equality check|
+equals|COMPARE|equals|
+not|COMPARE|negation|
+at_most|COMPARE|less than or equal|
+at_least|COMPARE|greater than or equal|
+greater_than|COMPARE|more than|
+less_than|COMPARE|fewer than|
+under|COMPARE|below|
+above|COMPARE|beyond|
+
+# Control Flow
+if|CONTROL|conditional branch|
+unless|CONTROL|inverted conditional|
+when|CONTROL|triggered condition|
+while|CONTROL|loop on condition|
+until|CONTROL|loop until condition|
+repeat|CONTROL|do fixed times|
+done|CONTROL|end block|
+end|CONTROL|terminate|
+finish|CONTROL|complete program|
+stop|CONTROL|halt execution|
+break|CONTROL|exit loop|
+continue|CONTROL|skip to next|
+return|CONTROL|send back value|
+
+# Function Definition
+to|FUNCTION|define a function|
+compute|FUNCTION|calculate|
+calculate|FUNCTION|determine value|
+get|FUNCTION|retrieve value|
+find|FUNCTION|locate value|
+check|FUNCTION|verify condition|
+
+# GenZ/Slang
+bet|SLANG|confirmed|
+yeah|SLANG|yes|
+yep|SLANG|affirmative|
+yes|SLANG|positive|
+nah|SLANG|no|
+no|SLANG|not|
+facts|SLANG|completely true|
+slay|SLANG|excellent|
+sheesh|SLANG|disbelief|
+cap|SLANG|falsehood|
+no_cap|SLANG|truthfully|
+base|SLANG|authentic|
+fire|SLANG|excellent|
+lit|SLANG|exciting|
+mid|SLANG|mediocre|
+
+# Time
+now|TIME|current|
+today|TIME|present|
+always|TIME|every|
+never|TIME|not ever|
+already|TIME|completed|
+
+# Logical
+true|BOOLEAN|yes|
+false|BOOLEAN|no|
+
+# Pronouns and common words
+it|PRONOUN|previous value|
+this|PRONOUN|current context|
+these|PRONOUN|multiple contexts|
+they|PRONOUN|third party|
+me|PRONOUN|self|
+us|PRONOUN|group|
+everyone|NOUN|all people|

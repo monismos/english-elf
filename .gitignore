@@ -1,0 +1,38 @@
+# Build outputs
+build/
+src/english-elf
+english-elf
+*.o
+*.obj
+*.lib
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Generated dictionary (if built from system dict)
+# Keep data/words.txt committed, but ignore regenerated temp
+data/words.txt.tmp
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Zig cache
+.zig-cache/
+zig-cache/
+zig-out/
+
+# Python
+__pycache__/
+*.pyc
+
+# Test artifacts
+/tmp/
+*.log

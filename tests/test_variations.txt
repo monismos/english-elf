@@ -1,0 +1,5 @@
+say hello world.
+tell everyone hello.
+shout hello at the world.
+display hello.
+output hello.

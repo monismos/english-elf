@@ -1,0 +1,4 @@
+Set greeting to Hello, friend.
+Set name to Alice.
+Display greeting.
+Display name.

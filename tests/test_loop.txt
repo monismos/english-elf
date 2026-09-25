@@ -1,0 +1,2 @@
+Set total to 10.
+Display total.

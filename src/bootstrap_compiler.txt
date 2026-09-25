@@ -1,0 +1,19 @@
+# Bootstrap Compiler Source
+# This file is used to compile the English-ELF compiler itself
+# Once the assembly compiler is working, this will be used for self-hosting
+
+Set compiler_name to english-elf.
+Create a list named source_files.
+Add "src/asm/lexer.asm", "src/asm/parser.asm", "src/asm/codegen.asm", and "src/asm/runtime.asm" to source_files.
+Add "src/asm/main.asm" to source_files.
+Add "src/asm/elfgen.asm" to source_files.
+
+For each file in source_files:
+    Assemble file into object.
+    Add object to build_objects.
+
+Link build_objects into compiler.
+Test compiler with test_simple.txt.
+
+# This comment is ignored
+# The above should create a self-hosting compiler

@@ -1,0 +1,3 @@
+Create a list named fib.
+Add 1, 1, 2, 3, 5, 8, 13, and 21 to fib.
+For each n in fib, display n.

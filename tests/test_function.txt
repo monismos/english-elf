@@ -1,0 +1,5 @@
+Set total to 0.
+Add 1 to total.
+Add 2 to total.
+Add 3 to total.
+Display total.

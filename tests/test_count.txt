@@ -1,0 +1,2 @@
+Set count to 5.
+Display count.

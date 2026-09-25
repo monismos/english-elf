@@ -1,0 +1,3 @@
+Create a list named primes.
+Add 2, 3, 5, and 7 to the list.
+For each number in the list, print the number.

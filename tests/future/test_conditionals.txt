@@ -1,0 +1,3 @@
+# Future conditionals test - will work when implemented
+If x is at most 5, say it is small.
+Unless x is greater than 10, say it is not that big.

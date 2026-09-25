@@ -1,0 +1,4 @@
+Say hello world.
+Set greeting to Hello, friend.
+Let name be Alice.
+Print greeting name.

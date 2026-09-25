@@ -1,0 +1,15 @@
+# ENGLISH-ELF Self-Hosting Bootstrap
+# This program demonstrates the English Programming Language
+# Running on English-ELF itself (when self-hosted)
+
+Welcome to ENGLISH-ELF.
+Say This English program is running.
+Display 1, 2, and 3.
+Set x to 42.
+Say x equals 42.
+Create a list named numbers.
+Add 1, 2, 3, 4, and 5 to numbers.
+For each n in numbers, say n.
+Done.
+If x is at most 100, say x is small enough.
+Bet.

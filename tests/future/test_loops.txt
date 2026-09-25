@@ -1,0 +1,11 @@
+# Loops and GenZ slang tests
+Set n to 0.
+While n is less than 3:
+    Say n.
+    Let n be n plus 1.
+Done.
+
+Bet.
+Facts.
+Yeah.
+Slay.

@@ -1,0 +1,61 @@
+# Natural English Examples for ENGLISH-ELF
+
+# Hello World Variants
+Say hello world.
+Tell everyone hello.
+Greet the world.
+Hello there.
+Display hello world everyone.
+
+# Variables with Natural Interpolation
+Set greeting to Hello, friend.
+Let name be Alice.
+Print greeting name.
+
+# Multiple variables
+Set x to 5.
+Set y to 10.
+Print x and y.
+Show x, y, and z.
+
+# Lists
+Create a list named numbers.
+Add 1, 2, 3, and 4 to numbers.
+Display the list.
+
+# For Each
+For each n in numbers, say n.
+Every item in list: display it.
+
+# Conditionals (Natural)
+If x is at most 5, say it is small.
+Unless the list is empty, show the list.
+When n equals 10, stop.
+
+# Functions (Natural)
+To calculate double of n:
+    Return n times 2.
+Finish.
+
+To check if n is even:
+    If n divided by 2 equals 0, return yeah.
+    Return nah.
+Finish.
+
+# While loop
+While x is less than 10:
+    Display x.
+    Let x be x plus 1.
+Done.
+
+# GenZ Slang
+Bet.                    # Confirm
+Facts.                  # True
+No cap, x is 5.         # Actually x is 5
+Sheesh.                 # Expression
+Slay.                   # Success
+
+# Natural Actions
+Greet name.              # Say Hello, name!
+Welcome everyone.
+Goodbye world.
